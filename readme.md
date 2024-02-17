@@ -8,6 +8,7 @@
 # How to use
 #### find .ahk file that you downloaded and open it using AutoHotKey
 #### go into valorant and start game
+#### terminate proces "Delete"
 ## autotriger
 #### activate autotriger by pressing "UP"
 #### deactivate autotriger by presing "DOWN"

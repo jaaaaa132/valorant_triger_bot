@@ -61,3 +61,4 @@ PixelSearch() {
 		}
 	return
 }
+Delete::ExitApp
