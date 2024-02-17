@@ -15,7 +15,7 @@
 #### activate bunnyhoping by pressing "LEFT" and than holding "SPACE"
 #### deactivate bunnyhoping by presing "RIGHT"
 ## changing settings and bindings
-#### all binding can be changed on line 7
+#### all binding can be changed on line 6
 #### sensitivity settings are on line 18
 # Made by:
 #### jaaaaa132
